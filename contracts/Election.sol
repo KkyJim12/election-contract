@@ -24,7 +24,7 @@ contract Election {
     // Candidate count
     uint256 candidateCount = 0;
     
-    // Candidate list
+    // Candidate lists
     Candidate[] public candidates;
 
     /**
